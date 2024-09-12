@@ -1,6 +1,6 @@
 # flutter_theme
 
-Prevent Theme Flickering in Flutter - Properly Persist and Initialize Dark Mode with Provider
+Prevent Theme Flickering in Flutter - Properly Persist and Initialize Dark Mode with Provider.
 
 ## Getting Started
 
